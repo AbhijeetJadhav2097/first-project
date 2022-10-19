@@ -1,0 +1,18 @@
+.text-major{
+    color: red;
+}
+.text-minor{
+    color: blue;
+}
+.text-warning{
+    color: orange;
+}
+.bg-major{
+    background-color: red;
+}
+.bg-minor{
+    background-color: blue;
+}
+.bg-warning{
+    background-color: orange;
+}
